@@ -151,4 +151,4 @@ Loads pre-computed calibration quality data and displays summary statistics.
 
 - **Body-vs-face downward bias**: Body - Face vertical error difference (positive = gaze perceived lower on body than face)
 - **Accuracy**: Mean error magnitude in visual degrees
-- **Gaze Radius**: Mean radius of gaze cluster in visual degrees (measure of response consistency)
+- **Gaze Radius**: Mean radius of gaze cluster in visual degrees (measure of gaze consistency)
