@@ -1,4 +1,4 @@
-# PNAS Analysis Scripts
+# Analysis Scripts
 
 Analysis scripts for gaze perception experiments.
 
